@@ -4,4 +4,4 @@
     |             66812e7d7336f             |
     |_______________________________________|
 */
- use Pmpr\Common\Subscription\Subscription; Subscription::symcgieuakksimmu();
+ namespace Pmpr\Common\Subscription\Interfaces; use Pmpr\Common\Subscription\Engine; interface EngineInterface { public function uykissogmuaaocsg() : Engine; }
