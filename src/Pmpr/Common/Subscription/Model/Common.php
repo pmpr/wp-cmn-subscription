@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             66f7da1bd6842             |
+    |             670d4a824751e             |
     |_______________________________________|
 */
- namespace Pmpr\Common\Subscription\Model; use Pmpr\Common\Foundation\ORM\DB\Model; use Pmpr\Common\Subscription\Engine; abstract class Common extends Model { public function ckgmycmaukqgkosk() { parent::ckgmycmaukqgkosk(); $wksoawcgagcgoask = $this->akuociswqmoigkas(); $this->oyeskqayoscwciem()->okgmqaeuaeymaocm($wksoawcgagcgoask)->wiskakymeaywyeuw($wksoawcgagcgoask); } public abstract function uykissogmuaaocsg() : Engine; }
+ namespace Pmpr\Common\Subscription\Model; use Pmpr\Common\Foundation\ORM\Model; use Pmpr\Common\Subscription\Interfaces\EngineInterface; abstract class Common extends Model implements EngineInterface { }

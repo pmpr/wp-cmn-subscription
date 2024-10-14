@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             66f7da1bd6842             |
+    |             670d4a824751e             |
     |_______________________________________|
 */
- namespace Pmpr\Common\Subscription\Woocommerce; class Woocommerce extends Common { public function wigskegsqequoeks() { $this->qcsmikeggeemccuu("\x70\154\165\147\x69\x6e\x73\x5f\154\157\x61\144\x65\x64", [$this, "\x69\x63\x77\x63\147\x6d\x63\x6f\x69\155\x71\145\151\147\x79\x65"]); } public function icwcgmcoimqeigye() { if (!$this->caokeucsksukesyo()->wikusamwomuogoau()->ggocakcisguuokai()) { goto qmkaeeomgkwggoyo; } Setting::symcgieuakksimmu(); qmkaeeomgkwggoyo: } }
+ namespace Pmpr\Common\Subscription\Woocommerce; use Pmpr\Common\Subscription\Container; class Woocommerce extends Container { public function wigskegsqequoeks() { $this->qcsmikeggeemccuu("\x70\154\165\x67\151\156\x73\x5f\x6c\x6f\x61\144\x65\144", [$this, "\151\x63\x77\x63\x67\x6d\x63\157\x69\155\x71\x65\x69\x67\171\145"]); } public function icwcgmcoimqeigye() { if ($this->caokeucsksukesyo()->wikusamwomuogoau()->ggocakcisguuokai()) { Setting::symcgieuakksimmu(); } } }

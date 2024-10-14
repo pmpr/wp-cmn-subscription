@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             66f7da1bd6842             |
+    |             670d4a824751e             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Subscription\Interfaces; use Pmpr\Common\Subscription\Engine; interface EngineInterface { public function uykissogmuaaocsg() : Engine; }
